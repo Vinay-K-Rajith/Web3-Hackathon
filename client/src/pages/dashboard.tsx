@@ -39,7 +39,7 @@ export default function Dashboard() {
             <div className="flex items-center space-x-4">
               <div className="flex items-center space-x-2">
                 <Sprout className="h-8 w-8 text-primary" />
-                <h1 className="text-xl font-bold text-foreground">AgriChain</h1>
+                <h1 className="text-xl font-bold text-foreground">AgriTrace</h1>
               </div>
               <nav className="hidden md:flex space-x-6">
                 <a href="#" className="text-foreground hover:text-primary transition-colors">Dashboard</a>
