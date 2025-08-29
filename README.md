@@ -270,20 +270,7 @@ The AI Compliance Checker provides intelligent analysis of agricultural products
 - **Compliance Reports**: Detailed compliance assessments
 - **Export Reports**: International trade documentation
 
-## 🚀 Deployment
 
-### **Production Setup**
-```bash
-# Build the application
-npm run build
-
-# Start production server
-npm start
-
-# Environment variables for production
-NODE_ENV=production
-PORT=3000
-```
 
 
 
