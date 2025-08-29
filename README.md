@@ -270,22 +270,6 @@ The AI Compliance Checker provides intelligent analysis of agricultural products
 - **Compliance Reports**: Detailed compliance assessments
 - **Export Reports**: International trade documentation
 
-## 🚀 Deployment
-
-### **Production Setup**
-```bash
-# Build the application
-npm run build
-
-# Start production server
-npm start
-
-# Environment variables for production
-NODE_ENV=production
-PORT=3000
-```
-
-
 
 
 ### **Community**
@@ -307,12 +291,7 @@ PORT=3000
   - RA2311047010223
   
 
-## 🙏 Acknowledgments
 
-- **Stacks Foundation** for blockchain infrastructure
-- **Hiro** for wallet integration
-- **Open Source Community** for amazing tools and libraries
-- **Agricultural Industry** for domain expertise and feedback
 
 
 
