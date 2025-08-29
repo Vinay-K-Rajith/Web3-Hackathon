@@ -1,0 +1,18 @@
+[project]
+name = "agri-supply-chain"
+description = "Agricultural supply chain tracking on Stacks blockchain"
+authors = ["Vinay"]
+telemetry = false
+cache_dir = ".clarinet"
+
+[contracts.agri-supply-chain]
+path = "contracts/agri-supply-chain.clar"
+clarity_version = 2
+epoch = 2.4
+
+[repl]
+costs_version = 3
+parser_version = 2
+
+[repl.analysis]
+passes = []
